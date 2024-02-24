@@ -18,3 +18,6 @@ BAMM_Analyses folder is subsetted into one folder for each of the four phenotype
 4) Event_data file containing the inferred rate shift results (import into "BAMM_output_processing.R" to pull results)
 5) MCMC_out file with output mcmc information.
 6) run info file, output from analysis.
+
+Oh -- and to actually run the program in a Bash terminal, just type:
+`bamm -c myControlFile.txt`
