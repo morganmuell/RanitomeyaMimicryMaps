@@ -3,7 +3,7 @@ Code for BAMM analyses from Muell and Brown (2024) for publication in Evolutiona
 
 Citation: Muell MR, and Brown JL. 2024. Integrating ecological niche modeling and rates of evolution to model geographic regions of mimetic color pattern selection. Evolutionary Ecology (2024):1-21.
 
-Access the manuscript [here](https://link.springer.com/article/10.1007/s10682-024-10290-8)
+Access the manuscript [here](https://link.springer.com/article/10.1007/s10682-024-10290-8).
 
 Guide to Repo:
 
